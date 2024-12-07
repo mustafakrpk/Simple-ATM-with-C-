@@ -1,0 +1,13 @@
+C:\Users\MUSTAFA KIRPIK\Documents\consoleapp\bin\Debug\netcoreapp3.1\consoleapp.exe
+C:\Users\MUSTAFA KIRPIK\Documents\consoleapp\bin\Debug\netcoreapp3.1\consoleapp.deps.json
+C:\Users\MUSTAFA KIRPIK\Documents\consoleapp\bin\Debug\netcoreapp3.1\consoleapp.runtimeconfig.json
+C:\Users\MUSTAFA KIRPIK\Documents\consoleapp\bin\Debug\netcoreapp3.1\consoleapp.runtimeconfig.dev.json
+C:\Users\MUSTAFA KIRPIK\Documents\consoleapp\bin\Debug\netcoreapp3.1\consoleapp.dll
+C:\Users\MUSTAFA KIRPIK\Documents\consoleapp\bin\Debug\netcoreapp3.1\consoleapp.pdb
+C:\Users\MUSTAFA KIRPIK\Documents\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.csprojAssemblyReference.cache
+C:\Users\MUSTAFA KIRPIK\Documents\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.AssemblyInfoInputs.cache
+C:\Users\MUSTAFA KIRPIK\Documents\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.AssemblyInfo.cs
+C:\Users\MUSTAFA KIRPIK\Documents\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFA KIRPIK\Documents\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.dll
+C:\Users\MUSTAFA KIRPIK\Documents\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.pdb
+C:\Users\MUSTAFA KIRPIK\Documents\consoleapp\obj\Debug\netcoreapp3.1\consoleapp.genruntimeconfig.cache
